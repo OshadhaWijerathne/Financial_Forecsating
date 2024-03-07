@@ -1,1 +1,1 @@
-This is a Financial forecasting app developed using python.(Streamlit , Prophet)
+This is a Financial forecasting app(Stock prices from "yfinance") developed using python.(Streamlit , Prophet)
